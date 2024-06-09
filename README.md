@@ -11,7 +11,6 @@ Table of Contents:
 5.	Data Description
 6.	Usage
 7.	Questions and Analyses
-8.	License
 
 Installation:
 1.	Clone the repository
